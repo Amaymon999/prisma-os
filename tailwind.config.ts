@@ -58,6 +58,9 @@ const config: Config = {
         input: "#141b24",
         ring: "#3dffa0",
       },
+      fontSize: {
+        "2xs": ["0.65rem", { lineHeight: "1rem" }],
+      },
       borderRadius: {
         lg: "0.75rem",
         md: "0.5rem",
