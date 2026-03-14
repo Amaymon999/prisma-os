@@ -5,6 +5,7 @@ Stack: Next.js 15 · TypeScript · Tailwind CSS · Supabase · Vercel
 
 ---
 
+
 ## Setup locale (5 minuti)
 
 ### 1. Copia il progetto
